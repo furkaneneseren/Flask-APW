@@ -10,7 +10,6 @@ information to the computer.
 - Postman
 - SQLAlchemy
 - Marshmallow
-- Pandas
 
 
 ## API Reference
